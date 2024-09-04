@@ -16,4 +16,4 @@ The proposed project focuses on the development of an innovative platform design
   2. Adaptive Cognitive Games: A library of cognitive exercises that adapt in real-time to the user’s performance, providing challenges that stimulate memory, attention, problem-solving, and other cognitive functions.
   3. Multimodal Data Integration: Aggregation of data from various sources (physiological, environmental, cognitive performance) for a comprehensive view of the patient’s health and cognitive state.
   4. Explainable AI: Use of explainable AI models to ensure that caregivers and medical professionals can understand the reasoning behind the system's recommendations and predictions.
-  User-Friendly Interface: An interface designed for both elderly users and caregivers, ensuring accessibility, ease of use, and effective communication of insights.
+  5. User-Friendly Interface: An interface designed for both elderly users and caregivers, ensuring accessibility, ease of use, and effective communication of insights.
